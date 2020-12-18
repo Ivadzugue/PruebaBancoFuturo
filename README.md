@@ -1,6 +1,6 @@
-# Emulator Project Testing Api testing
+# Emulator Project Testing Api testing and Integration testing
 
-This project is write simulating the scenarios of the service of authentication of the "Banco Futuro"
+This project is write simulating the scenarios of the service of authentication and the integration testing of "Banco Futuro"
 
 # BancoFuturo Api Test 
 
